@@ -30,7 +30,7 @@ A simple website for finding recipes built using the Food2Fork API and Express.j
     * Basil
     * Basil,Cumin
     * Basil and Cumin
-3. A query can also be typed directly into the address bar by typing 'recipes/ingredients?=' followed by the desired ingredients
+3. A query can also be typed directly into the address bar by typing *recipes/ingredients?=* followed by the desired ingredients
     * http://localhost:3000/recipes/ingredients?=cumin
     * http://localhost:3000/recipes?ingredients=Basil,Cumin
 4. Clicking on a recipe image or title will open the source link for that recipe in a new tab
