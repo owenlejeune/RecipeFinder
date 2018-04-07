@@ -1,5 +1,5 @@
 # Recipe Finder
-A simple website for finding recipes built using the Food2Fork API and Express.js
+A simple website for finding recipes built using the [Food2Fork API](http://food2fork.com/) and Express.js
 
 ### Development Environment
 * node 9.9.0
