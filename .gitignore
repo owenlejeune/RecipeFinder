@@ -27,3 +27,5 @@ Network Trash Folder
 Temporary Items
 .apdisk
 Pods/*
+
+/node_modules
