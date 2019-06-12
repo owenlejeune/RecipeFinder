@@ -13,6 +13,7 @@
     "hbs": "*",
     "morgan": "*",
     "pug": "*",
-    "serve-favicon": "*"
+    "serve-favicon": "*",
+    "clean-css": ">=4.1.11"
   }
 }
