@@ -14,7 +14,7 @@
     "morgan": "*",
     "pug": "*",
     "serve-favicon": "*",
-    "clean-css": ">=4.2.3",
+    "clean-css": ">=5.0.1",
     "handlebars": ">=4.7.6"
   }
 }
