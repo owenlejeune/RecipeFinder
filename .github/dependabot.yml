@@ -1,0 +1,20 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "10:00"
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: clean-css
+    versions:
+    - 5.0.1
+    - 5.1.0
+    - 5.1.1
+  - dependency-name: lodash
+    versions:
+    - 4.17.20
+  - dependency-name: pug
+    versions:
+    - 3.0.0
